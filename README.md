@@ -1,9 +1,8 @@
 # sobre mim #
 
-@matheus639
-Ola, meu nome é ****
+Ola, meu nome é **@matheus639**
 
-👍 Meu email para contato é [email](@escola.pr.gov.br)
+👍 Meu email para contato é [email](Gustavomatheus639@gmail.com)
 
 👀 Estou interessada em aprender novas línguagens de programação
 
@@ -11,5 +10,5 @@ Ola, meu nome é ****
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
 
-@matheus639
+
 
